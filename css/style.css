@@ -1,7 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 body {
   color: #222;
   font-size: 17px;
-  font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", Verdana, Arial, '微软雅黑', '宋体';
+  font-family: "Work Sans", "PingFang SC", Verdana, Arial;
 }
 a {
   text-decoration: none;
